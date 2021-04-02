@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.3.4"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "name": "nft",
+  "description": "Truffle Starter Kit for dApps",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudiptab2100/NFT.git"
+  },
+  "keywords": [
+    "nft"
+  ],
+  "author": "Sudipta Basak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudiptab2100/NFT/issues"
+  },
+  "homepage": "https://github.com/sudiptab2100/NFT#readme"
+}
